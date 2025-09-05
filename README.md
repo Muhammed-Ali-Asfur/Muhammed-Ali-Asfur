@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 ### 👋 Merhaba, ben Muhammed  
-🚀 Full Stack Developer | 💻 C++, C#, .NET, ADO.NET, SQL, HTML, CSS  
+🚀 Full Stack Developer | 💻 C++, C#, .NET, SQL, HTML, CSS  
 
 </div>
 
@@ -28,28 +28,8 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammed-Ali-Asfur&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-Ali-Asfur&layout=compact&theme=tokyonight" width="40%"/>
-</div>
-
----
-
 ### 🧑‍💻 Hakkımda
-- 🔭 Şu an **.NET & C#** projeleri geliştiriyorum.  
-- 🌱 Aynı zamanda **ADO.NET & SQL Server** üzerinde uzmanlaşıyorum.  
-- 🎯 Hedefim: **Full Stack Developer** olarak kurumsal projeler geliştirmek.  
-- 💬 Bana **C#, .NET, SQL veya yazılım geliştirme** hakkında sorular sorabilirsin.  
-
----
-
-<div align="center">
-
-⚡ **Kod Döngüsü** ⚡  
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging..."/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="Fixed!"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works but why?!"/>
-
-</div>
+- 🔭 Şu an **.NET & C#** ve **Full Stack** projeler geliştiriyorum.  
+- 🌱 Sürekli kendimi geliştiriyor ve **full stack deneyimimi güçlendiriyorum**.  
+- 🎯 Hedefim: **Profesyonel Full Stack Developer** olarak kurumsal projelerde yer almak.  
+- 💬 Bana **C#, .NET, SQL, Full Stack geliştirme** hakkında sorular sorabilirsin.  
