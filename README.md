@@ -32,4 +32,4 @@
 - 🔭 Şu an **.NET & C#** ve **Full Stack** projeler geliştiriyorum.  
 - 🌱 Sürekli kendimi geliştiriyor ve **full stack deneyimimi güçlendiriyorum**.  
 - 🎯 Hedefim: **Profesyonel Full Stack Developer** olarak kurumsal projelerde yer almak.  
-- 💬 Bana **C#, .NET, SQL, Full Stack geliştirme** hakkında sorular sorabilirsin.  
+ 
