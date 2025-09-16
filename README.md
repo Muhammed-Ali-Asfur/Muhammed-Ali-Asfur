@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 ### 👋 Merhaba, ben Muhammed  
-🚀 Full Stack Developer | 💻 C++, C#, .NET, SQL, HTML, CSS  
+🚀 Full Stack Developer | 💻 C++, C#, .NET, SQL,JavaScript HTML, CSS  
 
 </div>
 
