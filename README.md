@@ -1,7 +1,9 @@
 <div align="center" width="50">
+<div style="position: relative; display: inline-block;">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%">
+  <span style="position: absolute; top: 10px; left: 10px; color: white; font-weight: bold;">Ali</span>
+</div>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 ### 👋 Merhaba, ben Muhammed  
 🚀 Full Stack Developer | 💻 C++, C#, .NET, SQL,JavaScript HTML, CSS  
