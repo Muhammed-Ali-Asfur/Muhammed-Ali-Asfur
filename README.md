@@ -3,7 +3,7 @@
   <!-- Resmin üstünde Ali yazısı -->
   <div style="position: relative; display: inline-block;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Ali" width="60%">
-    <span style="position: absolute; top: 10px; left: 10px; color: white; font-weight: bold;">Ali</span>
+    
   </div>
   <br>
 
