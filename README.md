@@ -18,7 +18,7 @@
 
 ### 🌐 Sosyal Bağlantılar
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Ali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](h[ttps://www.linkedin.com/in/ali](https://www.linkedin.com/in/muhammed-ali-asfur-51590b255/))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](h[ttps://www.linkedin.com/in/ali](https://www.linkedin.com/in/muhammed-ali-asfur-51590b255/))](https://www.linkedin.com/in/muhammed-ali-asfur-51590b255/)
 
 ---
 
