@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-  <!-- Resmin üstünde Ali yazısı görünsün -->
+
   <div style="position: relative; display: inline-block;">
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Ali" width="60%">
     <span style="position: absolute; top: 10px; left: 10px; color: white; font-weight: bold;">Ali</span>
@@ -18,7 +18,7 @@
 
 ### 🌐 Sosyal Bağlantılar
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Ali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](h[ttps://www.linkedin.com/in/ali](https://www.linkedin.com/in/muhammed-ali-asfur-51590b255/))
 
 ---
 
