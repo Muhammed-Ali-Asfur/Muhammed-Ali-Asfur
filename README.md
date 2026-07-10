@@ -2,42 +2,42 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%" />
 
-# 👋 Merhaba, ben Muhammed Ali
+# 👋 Hi, I'm Muhammed Ali
 
 ### 💻 Computer Engineer | Full Stack Developer
 
-🚀 C# | .NET | ASP.NET Core MVC | ASP.NET Core Web API | Entity Framework Core
+🚀 C# | .NET | ASP.NET Core MVC | ASP.NET Core Web API | Entity Framework Core | LINQ
 
-Kurumsal uygulamalar, backend geliştirme, veritabanı tasarımı ve uçtan uca yazılım geliştirme süreçleri üzerine çalışıyorum.
+I focus on enterprise application development, backend engineering, database design, and end-to-end software development processes.
 
 </div>
 
 ---
 
-## 🌐 Sosyal Bağlantılar
+## 🌐 Social Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Muhammed-Ali-Asfur)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-ali-asfur-51590b255/)
 
-📧 **E-posta:** aliasfur08@gmail.com
+📧 **Email:** aliasfur08@gmail.com
 
 ---
 
-## 🧑‍💻 Hakkımda
+## 🧑‍💻 About Me
 
-- 🎓 Bilgisayar Mühendisiyim.
-- 💻 C# ve .NET teknolojileri ile Full Stack web uygulamaları geliştiriyorum.
-- 🏗️ ASP.NET Core MVC, Web API, Entity Framework Core ve SQL Server kullanarak ölçeklenebilir uygulamalar geliştiriyorum.
-- 🔐 Kimlik doğrulama, yetkilendirme, güvenli API geliştirme ve backend mimarileri üzerine çalışıyorum.
-- 🧩 Repository Pattern, Unit Of Work, Dependency Injection ve katmanlı mimari prensiplerini kullanıyorum.
-- 🗄️ Veritabanı tasarımı, performanslı sorgular ve veri yönetimi konularında deneyim sahibiyim.
-- 🚀 Proje analizinden geliştirme, test ve yayına alma süreçlerine kadar uçtan uca geliştirme yapıyorum.
-- 🎯 Hedefim, kurumsal yazılım projelerinde profesyonel Full Stack Developer olarak değer üretmek.
+- 🎓 Computer Engineering student focused on software development.
+- 💻 Developing Full Stack web applications using C# and .NET technologies.
+- 🏗️ Building scalable applications with ASP.NET Core MVC, Web API, Entity Framework Core, LINQ, and SQL Server.
+- 🔐 Working on authentication, authorization, secure API development, and backend architecture.
+- 🧩 Experienced with Repository Pattern, Unit Of Work, Dependency Injection, and layered architecture principles.
+- 🗄️ Interested in database design, query optimization, LINQ queries, and efficient data management.
+- 🚀 Experienced in the complete software development lifecycle, including analysis, development, testing, and deployment.
+- 🎯 My goal is to contribute as a professional Full Stack Developer in enterprise software projects.
 
 ---
 
-## 🛠️ Teknolojiler ve Araçlar
+## 🛠️ Technologies & Tools
 
 ### Backend
 
@@ -47,6 +47,7 @@ Kurumsal uygulamalar, backend geliştirme, veritabanı tasarımı ve uçtan uca 
 ![MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Web API](https://img.shields.io/badge/Web_API-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
 
 ---
@@ -75,12 +76,13 @@ Kurumsal uygulamalar, backend geliştirme, veritabanı tasarımı ve uçtan uca 
 
 ---
 
-## 📌 Geliştirdiğim Alanlar
+## 📌 Development Areas
 
-- ✅ ASP.NET Core MVC tabanlı web uygulamaları
-- ✅ RESTful Web API geliştirme
-- ✅ Katmanlı mimari ve temiz kod prensipleri
-- ✅ Entity Framework Core ile ORM kullanımı
-- ✅ SQL Server veritabanı tasarımı
-- ✅ Kurumsal proje takip ve yönetim sistemleri
-- ✅ Backend servisleri ve veri yönetimi
+- ✅ ASP.NET Core MVC web applications
+- ✅ RESTful Web API development
+- ✅ Clean Architecture and layered application design
+- ✅ Entity Framework Core ORM implementation
+- ✅ LINQ-based data querying and manipulation
+- ✅ SQL Server database design and optimization
+- ✅ Enterprise project tracking and management systems
+- ✅ Backend services and data management solutions
